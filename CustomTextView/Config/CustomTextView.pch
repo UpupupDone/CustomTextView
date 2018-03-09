@@ -1,0 +1,15 @@
+//
+//  CustomTextView.pch
+//  CustomTextView
+//
+//  Created by NBCB on 2018/2/2.
+//  Copyright © 2018年 周清城. All rights reserved.
+//
+
+#ifndef CustomTextView_pch
+#define CustomTextView_pch
+
+#import "Define.h"
+#import "Masonry.h"
+
+#endif /* CustomTextView_pch */
